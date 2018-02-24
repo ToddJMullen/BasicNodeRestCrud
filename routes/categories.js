@@ -1,0 +1,2 @@
+
+// Category.register( app, "/categories" );
